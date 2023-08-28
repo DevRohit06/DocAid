@@ -50,7 +50,7 @@ export default function Header() {
           </button>
         </nav>
         {mobile ? (
-          <div className="mt-12 text-xl flex flex-col md:flex xl:hidden items-center gap-8 text-gray-500 ">
+          <div className="mt-12 text-xl flex flex-col md:flex xl:hidden items-center gap-8 text-[#565972] ">
             <a href="">Home</a>
             <a href="">Find Doctor</a>
             <a href="">Our Services</a>
