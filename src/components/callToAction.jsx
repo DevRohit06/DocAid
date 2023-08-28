@@ -5,7 +5,7 @@ export default function CallToAction() {
     "State of the Art Doctor Services",
     "Discount for All Medical Treatment",
     "Enrollment is Quick and Easy",
-    "Online Prescription and Medical History",
+    "Online Prescription",
   ];
   return (
     <>
