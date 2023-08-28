@@ -12,7 +12,7 @@ export default function CallToAction() {
     <div  className="sm:w-5/6 w-11/12 mt-36 mx-auto">
     <div className="w-full h-full flex justify-between items-center flex-col-reverse sm:flex-row">
         <div className="w-11/12 sm:w-3/6"> 
-          <h1 className="text-5xl pb-8 font-bold text-[#010a44]">We ensure Top Qualify Doctors for You</h1>
+          <h1 className="sm:text-5xl text-4xl pb-8 font-bold text-[#010a44]">We ensure Top Qualify Doctors for You</h1>
           {data.map((item, index) => {
             return (
               <div key={index} className="flex items-center gap-4 pb-4">

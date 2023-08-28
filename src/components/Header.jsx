@@ -26,7 +26,7 @@ export default function Header() {
       <header className="w-5/6 mx-auto py-4">
         <nav className="flex items-center justify-between">
           <div>
-            <h1 className="text-5xl font-bold">
+            <h1 className="sm:text-5xl text-3xl font-bold">
               <span className="text-[#010a44]">Doc</span>
               <span className="text-[#276aff]">Aid</span>
             </h1>
@@ -46,7 +46,7 @@ export default function Header() {
           </a>
           {/* mobile menu */}
           <button onClick={mobileView} className="md:block xl:hidden">
-            <HiMenuAlt3 className="text-4xl" />
+            <HiMenuAlt3 className="sm:text-4xl text-3xl" />
           </button>
         </nav>
         {mobile ? (
