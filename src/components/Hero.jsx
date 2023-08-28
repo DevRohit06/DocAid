@@ -2,7 +2,7 @@ import {AiFillPlayCircle} from "react-icons/ai"
 export default function Hero(){
     return (
         <>
-        <div className="w-11/12 md:w-11/12 xl:w-7/12 mx-auto mt-20">
+        <div className="w-11/12 md:w-11/12 xl:w-7/12 mx-auto mt-20 pb-32">
             <h1 className="text-[#010a44] text-center font-bold text-4xl sm:text-6xl">
                 Providing Best Online  Clinic to get Solutions in hand
             </h1>
@@ -13,7 +13,6 @@ export default function Hero(){
             <div className=" rounded-xl mt-12 w-full h-auto bg-center">
                 <img className="rounded-xl shadow-xl" src="https://images.pexels.com/photos/7089011/pexels-photo-7089011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
             </div>
-            <br />
         </div>
         </>
     )
