@@ -34,7 +34,7 @@ export default function Team() {
               <div className="p-6  rounded-xl">
                 <img
                   className="rounded-xl "
-                  src="https://media.licdn.com/dms/image/C4D03AQE7YScjLU4qhQ/profile-displayphoto-shrink_800_800/0/1584844567410?e=2147483647&v=beta&t=kfCdZUdTLS654Rtigf8QjpaUXT1DyvbaICarBIonbQg"
+                  src="https://www.jeanlouismedical.com/img/doctor-profile-small.png"
                   alt=""
                 />
                 <h1 className="text-xl font-semibold pt-2 text-center">Dr. Ken Redcross</h1>
@@ -50,10 +50,10 @@ export default function Team() {
               <div className="p-6  rounded-xl">
                 <img
                   className="rounded-xl "
-                  src="https://media.licdn.com/dms/image/C4D03AQE7YScjLU4qhQ/profile-displayphoto-shrink_800_800/0/1584844567410?e=2147483647&v=beta&t=kfCdZUdTLS654Rtigf8QjpaUXT1DyvbaICarBIonbQg"
+                  src="https://media.licdn.com/dms/image/D4E03AQEZXW7zW2BPSQ/profile-displayphoto-shrink_800_800/0/1673267155968?e=2147483647&v=beta&t=XaAceXp62JMapaAjqpkgG7bF9Qyg4eSoji3GYlwDH5k"
                   alt=""
                 />
-                <h1 className="text-xl font-semibold pt-2 text-center">Dr. Ken Redcross</h1>
+                <h1 className="text-xl font-semibold pt-2 text-center">Dr. Jhonny sins</h1>
                 <p className="text-center">CardioLogy Specialist</p>
                 <div className="flex gap-2 pt-2 items-center justify-center">
                     <AiFillFacebook className="text-3xl text-[#343434] hover:text-[#276aff]"/>
