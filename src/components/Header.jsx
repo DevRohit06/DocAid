@@ -45,7 +45,7 @@ export default function Header() {
             Book Now
           </a>
           {/* mobile menu */}
-          <button onClick={mobileView} className="md:block xl:hidden">
+          <button aria-label="Menu" onClick={mobileView} className="md:block xl:hidden">
             <HiMenuAlt3 className="sm:text-4xl text-3xl" />
           </button>
         </nav>
