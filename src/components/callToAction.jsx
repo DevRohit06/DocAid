@@ -17,7 +17,7 @@ export default function CallToAction() {
             return (
               <div key={index} className="flex items-center gap-4 pb-4">
                 <BsFillCheckCircleFill color="#276aff" className="text-xl"/>
-                <p className="text-[#96969a] text-lg font-semibold"> {item}</p>
+                <p className="text-[#707070] text-lg font-semibold"> {item}</p>
               </div>
             );
           })}

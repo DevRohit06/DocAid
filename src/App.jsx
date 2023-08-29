@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Features from "./components/features";
 import CallToAction from "./components/callToAction";
 import Team from "./components/team";
+import Services from "./components/services";
 function App() {
   return (
     <>
@@ -12,6 +13,7 @@ function App() {
       <Features />
       <CallToAction/>
       <Team/>
+      <Services/>
     </>
   );
 }
