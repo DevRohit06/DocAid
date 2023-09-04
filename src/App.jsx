@@ -6,6 +6,7 @@ import CallToAction from "./components/callToAction";
 import Team from "./components/team";
 import Services from "./components/services";
 import Appointment from "./components/appointment";
+import Testomonials from "./components/testimonial";
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
       <Team/>
       <Services/>
       <Appointment/>
+      <Testomonials/>
     </>
   );
 }
